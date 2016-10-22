@@ -1,0 +1,29 @@
+
+/*
+ Theme Name:     Pardal Child Theme
+ Theme URI:      http://www.pardaltravel.com/
+ Description:    Pardal Child Theme
+ Author:         Marcal Ramos Themes
+ Author URI:     http://www.pardaltravel.com
+ Template:       twentysixteen
+ Version:        1.0.0
+*/
+ 
+@import url("../twentysixteen/style.css");
+ 
+/* =Theme customization starts here
+------------------------------------------------------- */
+
+
+/*
+top-bar style
+*/
+
+.top-bar{
+	width: 100%;
+	height: 72px;
+}
+
+.navbar {
+    border-radius: 0px !important;
+}
